@@ -1,0 +1,54 @@
+body{
+    background-color: #3C3C3C;
+    margin: 0;
+    padding: 0;
+    color: white;
+    text-align: center;
+}
+
+.container {
+    max-width: 992px;
+    margin: 0 auto;
+}
+
+main {
+    margin-bottom: 1.5rem;
+}
+
+h1 {
+    font-size: 4em;
+    font-weight: 900;
+}
+
+.number {
+    display: inline-block;
+    width: 9%;
+    height: 50px;
+    position: relative;
+    border: 1px solid white;
+    text-align: center;
+    line-height: 50px;
+}
+
+.number h3 {
+    margin: 0;
+    color: white;
+}
+
+#btnEstrai {
+    margin: 1em;
+    font-size: 1.5em;
+}
+
+.scheda {
+    display: inline-block;
+    border: 1px solid white;
+    margin: 20px;
+}
+
+.scheda .number {
+    width: 30px;
+    height: 30px;
+    line-height: 30px;
+}
+
